@@ -38,6 +38,7 @@ The following image was the MAE of my random forest:
 The following image is the r^2 for random forest:
 <img width="1583" height="522" alt="image" src="https://github.com/user-attachments/assets/96a140cd-e36b-4730-a827-4fd59b4a53a3" />
 The next image is for the decision tree model:
+
 <img width="641" height="164" alt="image" src="https://github.com/user-attachments/assets/9f24127b-6f9b-4ca7-8ee7-6860e382e4f8" />
 
 
