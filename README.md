@@ -42,6 +42,13 @@ The next image is for the decision tree model:
 <img width="641" height="164" alt="image" src="https://github.com/user-attachments/assets/9f24127b-6f9b-4ca7-8ee7-6860e382e4f8" />
 
 This next series of pictures is for the decision tree model:
+<img width="146" height="830" alt="image" src="https://github.com/user-attachments/assets/2657ae50-a933-4182-8806-4afc1ee1d660" />
+
+
+
+<img width="150" height="858" alt="image" src="https://github.com/user-attachments/assets/e4257c76-4c2d-4ca4-99e4-ff45cd135888" />
+
+<img width="97" height="403" alt="image" src="https://github.com/user-attachments/assets/a89ee88d-d801-4ea2-95c9-e01a445bea1d" />
 
 <img width="138" height="834" alt="image" src="https://github.com/user-attachments/assets/47ccc489-aee0-4004-afb7-7a720d4a0ff4" />
 
@@ -54,9 +61,5 @@ These are my predictions for random forest:
 <img width="146" height="830" alt="image" src="https://github.com/user-attachments/assets/2657ae50-a933-4182-8806-4afc1ee1d660" />
 
 
-
-<img width="150" height="858" alt="image" src="https://github.com/user-attachments/assets/e4257c76-4c2d-4ca4-99e4-ff45cd135888" />
-
-<img width="97" height="403" alt="image" src="https://github.com/user-attachments/assets/a89ee88d-d801-4ea2-95c9-e01a445bea1d" />
 
  My data was sourced from Kaggle and came from a national park in Portugal.
