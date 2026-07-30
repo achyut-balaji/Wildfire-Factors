@@ -49,6 +49,11 @@ These are my predictions for random forest:
 
 <img width="150" height="858" alt="image" src="https://github.com/user-attachments/assets/b79830a0-8082-4fd3-b527-942fc29825b6" />
 
+<img width="141" height="846" alt="image" src="https://github.com/user-attachments/assets/10796fb6-0b84-43b1-9112-5b9bcb5a44ac" />
+
+<img width="146" height="830" alt="image" src="https://github.com/user-attachments/assets/2657ae50-a933-4182-8806-4afc1ee1d660" />
+
+
 
 <img width="150" height="858" alt="image" src="https://github.com/user-attachments/assets/e4257c76-4c2d-4ca4-99e4-ff45cd135888" />
 
