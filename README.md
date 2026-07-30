@@ -48,6 +48,6 @@ These are my predictions for random forest:
 
 <img width="150" height="858" alt="image" src="https://github.com/user-attachments/assets/e4257c76-4c2d-4ca4-99e4-ff45cd135888" />
 
-<img width="123" height="488" alt="image" src="https://github.com/user-attachments/assets/e8319417-9b78-47f5-9af7-ac67d7e9d231" />
+<img width="97" height="403" alt="image" src="https://github.com/user-attachments/assets/a89ee88d-d801-4ea2-95c9-e01a445bea1d" />
 
  My data was sourced from Kaggle and came from a national park in Portugal.
