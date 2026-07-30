@@ -9,7 +9,7 @@ FFMC, DMC, DC, ISI: FWI codes and indices tracking moisture and spread rate
 Temp, RH, wind, rain: Temperature, humidity, wind, and rain metrics
 area: Total burned area in hectares (target variable)
 
-My project used three tree-based modeling techniques: a Decision Tree and a Random Forest and XGBOOST. The single Decision Tree model was utilized first to establish a transparent, easily interpretable baseline for data behavior. Random Forests usually deliver better performance by reducing overfitting and capturing more complex patterns. Comparing the simple logic of a single tree against the aggregated power of the forest allowed for a thorough evaluation of accuracy versus model explainability. My final one was XGBOOST. It performed the best by a large margin.
+My project used three tree-based modeling techniques: a Decision Tree and a Random Forest and XGBOOST. The single Decision Tree model was utilized first to establish a transparent, easily interpretable baseline for data behavior. Random Forests usually deliver better performance by reducing overfitting and capturing more complex patterns. Comparing the simple logic of a single tree against the aggregated power of the forest allowed for a thorough evaluation of accuracy versus model explainability. My final one was XGBOOST. It performed the best by a large margin. XGBoost (Extreme Gradient Boosting) is a machine learning algorithm that builds many small decision trees and combines them to make  accurate predictions. 
 
 My final result was that of the Random Forest Model performing better than Decision Tree, but the XGBOOST was the best performing.
 
