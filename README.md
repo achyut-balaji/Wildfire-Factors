@@ -41,6 +41,10 @@ The next image is for the decision tree model:
 
 <img width="641" height="164" alt="image" src="https://github.com/user-attachments/assets/9f24127b-6f9b-4ca7-8ee7-6860e382e4f8" />
 
+This next series of pictures is for the decision tree model:
+
+<img width="138" height="834" alt="image" src="https://github.com/user-attachments/assets/47ccc489-aee0-4004-afb7-7a720d4a0ff4" />
+
 These are my predictions for random forest:
 
 <img width="150" height="858" alt="image" src="https://github.com/user-attachments/assets/b79830a0-8082-4fd3-b527-942fc29825b6" />
